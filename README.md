@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/download.svg?raw=true" alt="Logotipo de RegRex"/>
+  <img src="images/download.png?raw=true" alt="Logotipo de RegRex"/>
 </p>
 
 ---
