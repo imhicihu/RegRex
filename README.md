@@ -5,7 +5,7 @@
 ---
 
 ![stability-wip](images/477405737-stability_work_in_progress.png)
-![internaluse-green](images/3847436881-internal_use_stable.png)
+![internaluse-green](images/internal_use_Stable.png)
 
 ## Rationale / [Motivación](LEEME.md)
 
