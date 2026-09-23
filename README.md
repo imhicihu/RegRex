@@ -9,7 +9,7 @@
 
 ## Rationale / [Motivación](LEEME.md)
 
-A web-application to tweak, fiddle, tinker data. Lots of data patterns that resolved some insights. The result can be seen [here](https://www.kaggle.com/datasets/imhicihu/registros-bibliogrficos-imhicihu-circa-15-8-2023/)
+A web-application to tweak, fiddle, tinker data using [regular expressions](https://en.wikipedia.org/wiki/Regular_expression). Lots of data patterns that resolved some insights. The result can be seen [here](https://www.kaggle.com/datasets/imhicihu/registros-bibliogrficos-imhicihu-circa-15-8-2023/)
 
 ### Code of Conduct
 
