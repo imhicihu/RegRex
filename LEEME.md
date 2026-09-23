@@ -9,7 +9,7 @@
 
 ## Justificación / [Rationale](README.md)
 
-Una aplicación web para optimizar, manipular y experimentar con datos biblio. Se han identificado numerosos patrones en los datos que han permitido obtener algunas conclusiones. El resultado se puede ver [aquí](https://www.kaggle.com/datasets/imhicihu/registros-bibliogrficos-imhicihu-circa-15-8-2023/)
+Una aplicación web para optimizar, manipular y experimentar con datos bibliográficos usando [expresiones regulares](https://es.wikipedia.org/wiki/Expresi%C3%B3n_regular). Se han identificado numerosos patrones en los datos que han permitido obtener algunas conclusiones. El resultado se puede ver [aquí](https://www.kaggle.com/datasets/imhicihu/registros-bibliogrficos-imhicihu-circa-15-8-2023/)
 
 ### Código de conducta
 
