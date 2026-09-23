@@ -13,7 +13,7 @@ A web-application to tweak, fiddle, tinker data. Lots of data patterns that reso
 
 ### Code of Conduct
 
-* Please, check our [Code of Conduct](https://github.com/imhicihu/tell-el-ghaba-digital-assembly/code_of_conduct.md)
+* Please, check our [Code of Conduct](https://github.com/imhicihu/RegRex/code_of_conduct.md)
 
 ### Disclaimer
 
